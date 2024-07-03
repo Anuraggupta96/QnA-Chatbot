@@ -8,6 +8,8 @@ This project implements a Q&A chatbot using Google's Gemini Language Model (LLM)
 - **Customizable**: Easily fine-tune the chatbot to fit specific business needs, such as customer support, FAQs automation, or educational purposes.
 - **Chat History**: All conversations are saved for future reference, helping to track interactions and improve service over time.
 
+![Alt Text](https://github.com/Anuraggupta96/QnA-Chatbot/blob/main/S3.jpg)
+
 ## Installation
 
 1. Clone the repository:
