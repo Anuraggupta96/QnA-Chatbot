@@ -1,4 +1,4 @@
-# Q&A Chatbot with Google's Gemini LLM and Streamlit
+# QnA Chatbot 
 
 This project implements a Q&A chatbot using Google's Gemini Language Model (LLM) and Streamlit for the user interface. The chatbot is designed to answer questions in a conversational manner, leveraging the powerful natural language processing capabilities of Google's Gemini LLM.
 
